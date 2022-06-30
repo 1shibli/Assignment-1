@@ -1,0 +1,3 @@
+The reason behind n-1  is that the degree of freedom is usually given by n-1 and this is used for coming up with un biased estimation
+(i.e not underestimating the true population variance) so that the sample mean and variance will be approximately equal. This
+can also be referred to as Bassel's correction.
